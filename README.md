@@ -3,7 +3,7 @@ XCR winning price prediction model
 
 Detailed technical report of DASFAA 2019 [1] is [here](https://github.com/paliwal90/xcr_win_price_pred/blob/master/xcr_wpp.pdf).
 
-[1] to add, once paper comes into proceddings. 
+[1] to add, when paper comes into proceedings. 
 
 # Reproduce Results
 Before starting Docker, if you are using docker-for-mac, please increase memory by going to 
@@ -36,8 +36,6 @@ Example: first day of season 3
 ```python code/experiments/final_run.py 20131019``` #YYYYMMDD
 
 ## 5) Results
-
-Then, find the results in 
 
 ```data/prepared_data/simulated.20131019.result_all.txt```
 
