@@ -1,7 +1,7 @@
 XCR winning price prediction model
 ===
 
-Detailed technical report of DASFAA 2019[1] is [here](https://github.com/paliwal90/xcr_win_price_pred/xcr_wpp.pdf).
+Detailed technical report of DASFAA 2019 [1] is [here](https://github.com/paliwal90/xcr_win_price_pred/blob/master/xcr_wpp.pdf).
 
 [1] to add, once paper comes into proceddings. 
 
