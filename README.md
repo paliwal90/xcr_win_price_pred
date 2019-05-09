@@ -1,9 +1,7 @@
 XCR winning price prediction model
 ===
 
-Detailed technical report of DASFAA 2019 [1] is [here](https://github.com/paliwal90/xcr_win_price_pred/blob/master/xcr_wpp.pdf).
-
-[1] to add, when paper comes into proceedings. 
+Detailed technical report of https://link.springer.com/chapter/10.1007%2F978-3-030-18590-9_43 DASFAA, 2019 is [here](https://github.com/paliwal90/xcr_win_price_pred/blob/master/xcr_wpp.pdf).
 
 # Reproduce Results
 Before starting Docker, if you are using docker-for-mac, please increase memory by going to 
